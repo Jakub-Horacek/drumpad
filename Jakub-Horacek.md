@@ -54,3 +54,5 @@ I have studied game development and I also like making some 3D models in Blender
    <a href="http://www.github.com/Jakub-Horacek"><img src="https://activity-graph.herokuapp.com/graph?username=Jakub-Horacek&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
    
    <a href="https://github.com/Jakub-Horacek" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub-Horacek&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+   
+   </p>
